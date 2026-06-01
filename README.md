@@ -1,5 +1,5 @@
 #  AI Resume Analyzer
-#  Deployment link: https://github.com/srivathsav07/AI-Resume-Analysis-System
+#  Deployment link: https://airesumeanalysissystem.streamlit.app/
 An AI-powered Resume Screening and Optimization Platform that analyzes resumes against job descriptions using Large Language Models (LLMs), Natural Language Processing (NLP), and ATS (Applicant Tracking System) scoring techniques.
 
 The system automatically extracts candidate skills, experience, education, and project information from uploaded resumes, compares them with job requirements, identifies missing keywords, calculates ATS compatibility scores, and generates personalized recommendations to improve job application success rates.
